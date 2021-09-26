@@ -1,4 +1,4 @@
-<h4 align="center">(he/him) &#128104;&#8205;&#128187;&#10084;&#65039;</h4>
+<h4 align="center">(he/him) &#128104;&#8205;&#128187;</h4>
 
 <p align="center">
     <a href="https://discords.com/bio/p/lukepc">
@@ -22,7 +22,7 @@ I have a strong interest in anything related to tech—from smartphones to AI to
 
 **For contacting:** I prefer Discord or Twitter, but email works fine as well. My DMs are open on all platforms.
 
-Ich spreche Englisch und ein bisschen Deutsch (ich lerne). Ich möchte in Deutschland leben. :smile:
+Ich spreche Englisch und ein bisschen Deutsch (ich lerne). Ich möchte in Deutschland leben. :slightly_smiling_face:
 
 ## :sparkles: Skills
 
