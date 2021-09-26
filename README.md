@@ -76,6 +76,6 @@ Ich spreche Englisch und ein bisschen Deutsch (ich lerne). Ich möchte in Deutsc
 ## :chart_with_upwards_trend: GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ConsoleLogLuke&title_color=aed8ff&text_color=ffffff&icon_color=aed8ff&bg_color=3167a7&hide_border=true&border_radius=25&hide_rank=true&show_icons=true&count_private=true&custom_title=Overall%20Stats" alt="Overall Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConsoleLogLuke&title_color=aed8ff&text_color=ffffff&icon_color=aed8ff&bg_color=3167a7&hide_border=true&border_radius=25&layout=compact" alt="Most Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=ConsoleLogLuke&title_color=402e32&text_color=ffffff&icon_color=402e32&bg_color=ec8552&hide_border=true&border_radius=25&hide_rank=true&show_icons=true&count_private=true&custom_title=Overall%20Stats" alt="Overall Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConsoleLogLuke&title_color=402e32&text_color=ffffff&bg_color=ec8552&hide_border=true&border_radius=25&layout=compact" alt="Most Used Languages">
 </p>
