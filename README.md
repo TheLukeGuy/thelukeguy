@@ -1,17 +1,16 @@
-## :robot: Current Projects
+<h4 align="center">(he/him) :man_technologist:</h4>
 
-### :construction: In Progress
+## :wave: Hello!
+
+I'm a software developer! I sometimes make things for fun, mostly in Rust and Java.
+
+I love nearly everything related to technology—especially low-level programming and retro computing. I also like Minecraft quite a lot...
+
+## :robot: Current Projects
 
 * :snowflake: **[Firn](https://github.com/ConsoleLogLuke/Firn):** A generic system emulator, currently focused on x86.
 
-### :crystal_ball: Future Projects
-
-Most are technically in progress, but not high enough of a priority or far enough along.
-
-* :cupcake: **Frosting:** A Fabric mod adding working computers to Minecraft, capable of running real operating systems.
-* :partly_sunny: **Cumulonimbus:** A Fabric mod adding complex localized weather systems to Minecraft.
-* :jack_o_lantern: **Pumpkin**: A multi-protocol Minecraft server implementation built in Rust.
-* :kiwi_fruit: **Feijoa**: An extremely portable (`no_std`) Java Virtual Machine implementation built in Rust.
+I'm working on a number of other projects as well, but they're not consistently worked on or far along enough to belong here!
 
 ## :sparkles: Skills
 
@@ -72,6 +71,12 @@ Most are technically in progress, but not high enough of a priority or far enoug
 
 * :raccoon: **2018..=2019**: [GitLab](https://gitlab.com/devluke)
 * :octopus: **2013..=2018**: [GitHub (Archive)](https://gitlab.com/devluke/old-github)
+
+## :lock: GPG
+
+I sign all of my commits.
+
+My primary GPG key is `0xbd63df38dadcdd3ccfbed1d98dfdd356e2448d64`, although I've used other keys (mostly pre-2022).
 
 ## :memo: Contacting
 
