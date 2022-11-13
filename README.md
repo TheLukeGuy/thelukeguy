@@ -25,7 +25,10 @@ Also, I've previously used the name "ConsoleLogLuke" here.
 
 ### Stats
 
-[![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheLukeGuy&count_private=true&show_icons=true&custom_title=Luke%27s%20GitHub%20Stats&disable_animations=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheLukeGuy&count_private=true&show_icons=true&custom_title=Luke%27s%20GitHub%20Stats&disable_animations=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=TheLukeGuy&column=-1&no-bg=true&no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=TheLukeGuy&column=-1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
+
+[![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheLukeGuy&count_private=true&show_icons=true&custom_title=Luke%27s%20GitHub%20Stats&disable_animations=true&bg_color=00000000&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheLukeGuy&count_private=true&show_icons=true&custom_title=Luke%27s%20GitHub%20Stats&disable_animations=true&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <sup>I need to get these numbers up :(</sup>
