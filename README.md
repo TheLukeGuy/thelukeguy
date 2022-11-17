@@ -32,22 +32,14 @@ Also, I've previously used the name "ConsoleLogLuke" here.
     </picture>
 </p>
 
-<p>
+<p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=TheLukeGuy&bg_color=00000000&hide_border=true&show_icons=true&count_private=true&custom_title=Overall%20Stats&theme=dark">
-        <img align="top" alt="Overall Stats" src="https://github-readme-stats.vercel.app/api/?username=TheLukeGuy&bg_color=00000000&hide_border=true&show_icons=true&count_private=true&custom_title=Overall%20Stats">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=TheLukeGuy&bg_color=00000000&hide_border=true&card_width=400&show_icons=true&count_private=true&custom_title=Overall%20Stats&disable_animations=true&theme=dark">
+        <img align="top" alt="Overall Stats" src="https://github-readme-stats.vercel.app/api/?username=TheLukeGuy&bg_color=00000000&hide_border=true&card_width=400&show_icons=true&count_private=true&custom_title=Overall%20Stats&disable_animations=true">
     </picture>
-</p>
-<p>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLukeGuy&bg_color=00000000&hide_border=true&layout=compact&langs_count=6&theme=dark">
         <img align="top" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLukeGuy&bg_color=00000000&hide_border=true&layout=compact&langs_count=6">
-    </picture>
-</p>
-<p>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime/?username=TheLukeGuy&bg_color=00000000&hide_border=true&custom_title=Last%207%20Days&layout=compact&range=last_7_days&theme=dark">
-        <img align="top" alt="Last 7 Days" src="https://github-readme-stats.vercel.app/api/wakatime/?username=TheLukeGuy&bg_color=00000000&hide_border=true&custom_title=Last%207%20Days&layout=compact&range=last_7_days">
     </picture>
 </p>
 
