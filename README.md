@@ -25,14 +25,14 @@ Also, I've previously used the name "ConsoleLogLuke" here.
 
 ### Stats
 
-<p>
+<p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=TheLukeGuy&title=MultiLanguage%2CAllSuperRank%2CAncientUser%2CLongTimeUser%2COrganizations%2CStars%2CCommits%2CFollowers%2CIssues%2CPullRequest%2CRepositories&column=-1&no-bg=true&no-frame=true&theme=darkhub">
         <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=TheLukeGuy&title=MultiLanguage%2CAllSuperRank%2CAncientUser%2CLongTimeUser%2COrganizations%2CStars%2CCommits%2CFollowers%2CIssues%2CPullRequest%2CRepositories&column=-1&no-bg=true&no-frame=true">
     </picture>
 </p>
 
-<p>
+<p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=TheLukeGuy&bg_color=00000000&hide_border=true&hide_rank=true&show_icons=true&count_private=true&custom_title=Overall&theme=dark">
         <img align="top" alt="Overall" src="https://github-readme-stats.vercel.app/api/?username=TheLukeGuy&bg_color=00000000&hide_border=true&hide_rank=true&show_icons=true&count_private=true&custom_title=Overall">
