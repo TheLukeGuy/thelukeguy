@@ -25,10 +25,26 @@ Also, I've previously used the name "ConsoleLogLuke" here.
 
 ### Stats
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=TheLukeGuy&column=-1&no-bg=true&no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=TheLukeGuy&column=-1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
+<p>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=TheLukeGuy&title=MultiLanguage%2CAllSuperRank%2CAncientUser%2CLongTimeUser%2COrganizations%2CStars%2CCommits%2CFollowers%2CIssues%2CPullRequest%2CRepositories&column=-1&no-bg=true&no-frame=true&theme=darkhub">
+        <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=TheLukeGuy&title=MultiLanguage%2CAllSuperRank%2CAncientUser%2CLongTimeUser%2COrganizations%2CStars%2CCommits%2CFollowers%2CIssues%2CPullRequest%2CRepositories&column=-1&no-bg=true&no-frame=true">
+    </picture>
+</p>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=TheLukeGuy&count_private=true&show_icons=true&hide_title=true&hide_border=true&disable_animations=true&bg_color=00000000&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Stats](https://github-readme-stats.vercel.app/api?username=TheLukeGuy&count_private=true&show_icons=true&hide_title=true&hide_border=true&disable_animations=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<p>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=TheLukeGuy&bg_color=00000000&hide_border=true&hide_rank=true&show_icons=true&count_private=true&custom_title=Overall&theme=dark">
+        <img align="top" alt="Overall" src="https://github-readme-stats.vercel.app/api/?username=TheLukeGuy&bg_color=00000000&hide_border=true&hide_rank=true&show_icons=true&count_private=true&custom_title=Overall">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLukeGuy&bg_color=00000000&hide_border=true&layout=compact&langs_count=6&custom_title=Most%20Used&theme=dark">
+        <img align="top" alt="Most Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLukeGuy&bg_color=00000000&hide_border=true&layout=compact&langs_count=6&custom_title=Most%20Used">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime/?username=TheLukeGuy&bg_color=00000000&hide_border=true&custom_title=Last%207%20Days&layout=compact&range=last_7_days&theme=dark">
+        <img align="top" alt="Last 7 Days" src="https://github-readme-stats.vercel.app/api/wakatime/?username=TheLukeGuy&bg_color=00000000&hide_border=true&custom_title=Last%207%20Days&layout=compact&range=last_7_days">
+    </picture>
+</p>
 
 <sup>I need to get these numbers up :(</sup>
