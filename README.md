@@ -20,7 +20,6 @@ Also, I've previously used the name "ConsoleLogLuke" here.
 ### Contacting
 
 * :space_invader: **Discord:** Luke#3416
-* :bird: **Twitter:** [@ConsoleLogLuke](https://twitter.com/ConsoleLogLuke)
 * :e-mail: **Email:** [contact@lukepc.com](mailto:contact@lukepc.com)
 
 ### Stats
