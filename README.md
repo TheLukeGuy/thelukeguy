@@ -17,7 +17,8 @@ Also, I've previously used the name "ConsoleLogLuke" here.
 
 </p>
 
-### Contacting
+### Links & Contacting
 
 * :space_invader: **Discord:** Luke#3416
+* :mammoth: **Mastodon:** [@TheLukeGuy@mas.to](https://mas.to/@TheLukeGuy)
 * :e-mail: **Email:** [contact@lukepc.com](mailto:contact@lukepc.com)
