@@ -21,4 +21,4 @@ Also, I've previously used the name "ConsoleLogLuke" here.
 
 * :space_invader: **Discord:** Luke#3416
 * :mammoth: **Mastodon:** [@TheLukeGuy@mas.to](https://mas.to/@TheLukeGuy)
-* :e-mail: **Email:** [contact@lukepc.com](mailto:contact@lukepc.com)
+* :e-mail: **Email:** [hi@lpx.sh](mailto:hi@lpx.sh)
