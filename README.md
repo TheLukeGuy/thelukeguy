@@ -11,8 +11,8 @@ I've previously used the name "ConsoleLogLuke" here.
 
 [gitlab]: https://gitlab.com/devluke
 
-### Links & Contacting
+### Contacting
 
-* :space_invader: **Discord:** Luke#3416
-* :mammoth: **Mastodon:** [@TheLukeGuy@mas.to](https://mas.to/@TheLukeGuy)
-* :e-mail: **Email:** [hi@lpx.sh](mailto:hi@lpx.sh)
+- :mailbox: **Email:** <hi@lpx.sh>, or <jobs@lpx.sh> for job inquiries
+- :space_invader: **Discord:** thelukeguy
+- :speech_balloon: **WhatsApp:** Ask :)
